@@ -2,7 +2,6 @@
 - 👀 I’m interested in Javascript, ReactJS, Node.js, Vue, AWS, (probably irrelevant but) Video Games.
 - 🌱 I’m currently learning dart/flutter, but occassionally.
 - 💞️ I’m looking to collaborate on anything Javascript.
-- 📫 Reach out to me through: www.shrikantraut.in
 
 <!---
 Shrikant9/Shrikant9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
