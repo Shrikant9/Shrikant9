@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shrikant9
 - 👀 I’m interested in Javascript, ReactJS, Node.js, Vue, AWS, (probably irrelevant but) Video Games.
-- 🌱 I’m currently learning dart/flutter, but occassionally.
+- 🌱 I’m currently learning rust/blockchain, but occassionally.
 - 💞️ I’m looking to collaborate on anything Javascript.
 
 <!---
